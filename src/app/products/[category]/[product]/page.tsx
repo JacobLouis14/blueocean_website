@@ -16,7 +16,7 @@ interface Props {
 const Products = async ({ params }: Props) => {
   const { category, product } = await params;
   const response = await fetch(
-    `${process.env.BASE_URL}/api/products/${category}/${product}`
+    `${process.env.NEXT_PUBLIC_BASE_URL}/api/products/${category}/${product}`
   );
   const data = await response.json();
   const selectedProduct: IProduct = data.selected;
