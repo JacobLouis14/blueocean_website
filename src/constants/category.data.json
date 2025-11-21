@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Whiskey",
+    "link": "/products/whisky/highbury-classic-whisky"
+  },
+  {
+    "name": "Brandy",
+    "link": "/products/brandy/haze-premium-xO-brandy"
+  },
+  {
+    "name": "Rum",
+    "link": "/products/rum/pelican-rum"
+  },
+  {
+    "name": "Vodka",
+    "link": "/products/vodka/neon-raspberry-vodka"
+  },
+  {
+    "name": "Gin",
+    "link": "/products/gin/pink-mystique-london-drygin"
+  },
+  {
+    "name": "Liqueur",
+    "link": "/products/liqueur/bob's-ginger-liqueur"
+  },
+  {
+    "name": "Cocktails",
+    "link": "/products/cocktail/mr.-jerry's-long-island-iced-tea"
+  },
+  {
+    "name": "Low Alchoholic Beverages",
+    "link": "/products/low-alcohol/xf-crazy-cranberry"
+  }
+]

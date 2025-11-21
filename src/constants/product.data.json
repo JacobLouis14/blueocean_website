@@ -1,0 +1,506 @@
+[
+  {
+    "id": "whisky-1",
+    "name": "Highbury Classic Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/highbury-classic-whisky.png"
+  },
+  {
+    "id": "whisky-2",
+    "name": "Bellweather Pure Grain Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/bellweather-pure-grain-whisky.png"
+  },
+  {
+    "id": "whisky-3",
+    "name": "Old Bill Extra Special Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/old-bill-extra-special-whisky.png"
+  },
+  {
+    "id": "whisky-4",
+    "name": "Newton Seaward Rare Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/newton-seaward-rare-whisky.png"
+  },
+  {
+    "id": "whisky-5",
+    "name": "Neptune Pure Grain Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/neptune-pure-grain-whisky.png"
+  },
+  {
+    "id": "whisky-6",
+    "name": "Old Soldier Premium Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/old-soldier-premium-whisky.png"
+  },
+  {
+    "id": "whisky-7",
+    "name": "Famous Blue Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a smooth and refreshing taste.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/famous-blue-whisky.png"
+  },
+  {
+    "id": "whisky-8",
+    "name": "Indian Blue Premium Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a smooth and refreshing taste.",
+    "abv": 42.8,
+    "image": "/assets/products/whisky/indian-blue-premium-whisky.png"
+  },
+  {
+    "id": "whisky-9",
+    "name": "Famous Blue Whisky",
+    "category": "whisky",
+    "description": "A premium whisky with a rich and smooth flavor.",
+    "abv": 40,
+    "image": "/assets/products/whisky/famous-blue-whisky-2.png"
+  },
+  {
+    "id": "brandy-1",
+    "name": "Haze Premium XO Brandy",
+    "category": "brandy",
+    "description": "A unique brandy with a rich and complex flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/brandy/haze-xo-premium-brandy.png"
+  },
+  {
+    "id": "brandy-2",
+    "name": "Gold Crest Brandy",
+    "category": "brandy",
+    "description": "Aged to perfection for a smooth, rich flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/brandy/gold-crest-brandy.png"
+  },
+  {
+    "id": "brandy-3",
+    "name": "Sonata Regalia Napoleon Brandy",
+    "category": "brandy",
+    "description": "A blend of the finest grapes for a luxurious experience.",
+    "abv": 42.8,
+    "image": "/assets/products/brandy/sonata-regalia-nepoleon-brandy.png"
+  },
+  {
+    "id": "brandy-4",
+    "name": "Honey Guide Brandy",
+    "category": "brandy",
+    "description": "A premium brandy with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/brandy/honey-guide-brandy.png"
+  },
+  {
+    "id": "brandy-5",
+    "name": "Old Mansion VSOP Deluxe Brandy",
+    "category": "brandy",
+    "description": "A premium brandy with a rich and smooth flavor.",
+    "abv": 42.8,
+    "image": "/assets/products/brandy/old-mansion-vsop-deluxe-brandy.png"
+  },
+  {
+    "id": "brandy-6",
+    "name": "Starling Napolean Brandy",
+    "category": "brandy",
+    "description": "A premium brandy with a rich and smooth flavor.",
+    "abv": 40,
+    "image": "/assets/products/brandy/starling-napolean-brandy.png"
+  },
+  {
+    "id": "rum-1",
+    "name": "Pelican Rum",
+    "category": "rum",
+    "description": "A legendary rum with a rich heritage.",
+    "abv": 42.8,
+    "image": "/assets/products/rum/pelican_xxx_rum.png"
+  },
+  {
+    "id": "rum-2",
+    "name": "Pelican Rum(Sunflower Bottle)",
+    "category": "rum",
+    "description": "A legendary rum with a rich heritage.",
+    "abv": 42.8,
+    "image": "/assets/products/rum/pelican_xxx_rum_2.png"
+  },
+  {
+    "id": "rum-3",
+    "name": "Unicorn Rum",
+    "category": "rum",
+    "description": "Crafted with the finest botanicals for a refreshing taste.",
+    "abv": 42.8,
+    "image": "/assets/products/rum/unicorn_rum.png"
+  },
+  {
+    "id": "vodka-1",
+    "name": "Neon Raspberry Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-raspberry-vodka.png"
+  },
+  {
+    "id": "vodka-2",
+    "name": "Neon Tea Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-tea-vodka.png"
+  },
+  {
+    "id": "vodka-3",
+    "name": "Neon Vanilla Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-vanilla-vodka.png"
+  },
+  {
+    "id": "vodka-4",
+    "name": "Neon Guava Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-guava-vodka.png"
+  },
+  {
+    "id": "vodka-5",
+    "name": "Neon Cranberry Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-cranberry-vodka.png"
+  },
+  {
+    "id": "vodka-6",
+    "name": "Neon Apple Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-apple-vodka.png"
+  },
+  {
+    "id": "vodka-7",
+    "name": "Neon Chocolate Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-chocolate-vodka.png"
+  },
+  {
+    "id": "vodka-8",
+    "name": "Neon Coffee Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-coffee-vodka.png"
+  },
+  {
+    "id": "vodka-9",
+    "name": "Neon Lemon Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-lemon-vodka.png"
+  },
+  {
+    "id": "vodka-10",
+    "name": "Neon Mango Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-mango-vodka.png"
+  },
+  {
+    "id": "vodka-11",
+    "name": "Neon Orange Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-orange-vodka.png"
+  },
+  {
+    "id": "vodka-12",
+    "name": "Neon Pineapple Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-pineapple-vodka.png"
+  },
+  {
+    "id": "vodka-13",
+    "name": "Neon Strawberry Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/neon-strawberry-vodka.png"
+  },
+  {
+    "id": "vodka-14",
+    "name": "Neon Premium Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 42.8,
+    "image": "/assets/products/vodka/neon-premium-vodka.png"
+  },
+  {
+    "id": "vodka-15",
+    "name": "Friday Night Guava Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-guava-vodka.png"
+  },
+  {
+    "id": "vodka-16",
+    "name": "Friday Night Cranberry Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-cranberry-vodka.png"
+  },
+  {
+    "id": "vodka-17",
+    "name": "Friday Night Apple Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-apple-vodka.png"
+  },
+  {
+    "id": "vodka-18",
+    "name": "Friday Night Chocolate Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-chocolate-vodka.png"
+  },
+  {
+    "id": "vodka-19",
+    "name": "Friday Night Coffee Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-coffee-vodka.png"
+  },
+  {
+    "id": "vodka-20",
+    "name": "Friday Night Lemon Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-lemon-vodka.png"
+  },
+  {
+    "id": "vodka-21",
+    "name": "Friday Night Mango Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-mango-vodka.png"
+  },
+  {
+    "id": "vodka-22",
+    "name": "Friday Night Orange Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-orange-vodka.png"
+  },
+  {
+    "id": "vodka-23",
+    "name": "Friday Night Pineapple Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-pineapple-vodka.png"
+  },
+  {
+    "id": "vodka-24",
+    "name": "Friday Night Strawberry Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-strawberry-vodka.png"
+  },
+  {
+    "id": "vodka-25",
+    "name": "Friday Night Premium Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a smooth and refreshing taste.",
+    "abv": 40,
+    "image": "/assets/products/vodka/friday-night-premium-vodka.png"
+  },
+  {
+    "id": "vodka-26",
+    "name": "BOB's Orange Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a rich and smooth flavor.",
+    "abv": 40,
+    "image": "/assets/products/vodka/bobs-orange-vodka.png"
+  },
+  {
+    "id": "vodka-27",
+    "name": "BOB's Lemon Vodka",
+    "category": "vodka",
+    "description": "A premium vodka with a zesty lemon flavor.",
+    "abv": 40,
+    "image": "/assets/products/vodka/bobs-lemon-vodka.png"
+  },
+  {
+    "id": "gin-1",
+    "name": "Pink Mystique London Dry Gin",
+    "category": "gin",
+    "description": "A magical gin with a blend of exotic botanicals.",
+    "abv": 40,
+    "image": "/assets/products/gin/pink-mystique-gin.png"
+  },
+  {
+    "id": "gin-2",
+    "name": "Western Extra Dry Gin",
+    "category": "gin",
+    "description": "A whimsical gin with a touch of magic.",
+    "abv": 40,
+    "image": "/assets/products/gin/western-extra-dry-gin.png"
+  },
+  {
+    "id": "liqueur-1",
+    "name": "BOB's Ginger Liqueur",
+    "category": "liqueur",
+    "description": "A premium liqueur with a spicy ginger flavor.",
+    "abv": 40,
+    "image": "/assets/products/liqueur/bobs-ginger-liqueur.png"
+  },
+  {
+    "id": "cocktail-1",
+    "name": "Mr. Jerry's Long Island Iced Tea",
+    "category": "cocktail",
+    "description": "A premium ready to serve crafted cocktail with a refreshing, fresh and strong with a touch of zestiness from limes.",
+    "abv": 33.1,
+    "image": "/assets/products/cocktails/mr-jerrys-long-island-iced-tea.png"
+  },
+  {
+    "id": "cocktail-2",
+    "name": "Mr. Jerry's Ol' fashioned",
+    "category": "cocktail",
+    "description": "A premium ready to serve crafted cocktail with strong bold and aromatic with a well rounded spirit forward robustness from the whisky.",
+    "abv": 25.7,
+    "image": "/assets/products/cocktails/mr-jerrys-ol-fashioned.png"
+  },
+  {
+    "id": "cocktail-3",
+    "name": "Mr. Jerry's Espresso Martini",
+    "category": "cocktail",
+    "description": "A premium ready to serve crafted cocktail with a sweet style cocktail best enjoyed post dinner, intense coffee bitterness rounded by the vanilla and nutmeg. Super smooth.",
+    "abv": 20,
+    "image": "/assets/products/cocktails/mr-jerrys-espresso-martini.png"
+  },
+  {
+    "id": "cocktail-4",
+    "name": "Mr. Jerry's Mai Tai",
+    "category": "cocktail",
+    "description": "A premium ready to serve crafted cocktail with fruity, fresh, spicy but extremely enjoyable as its always more fun with rum.",
+    "abv": 24,
+    "image": "/assets/products/cocktails/mr-jerrys-mai-tai.png"
+  },
+  {
+    "id": "cocktail-5",
+    "name": "Mr. Jerry's Cucumber & Elderflower Fizz",
+    "category": "cocktail",
+    "description": "A premium ready to serve crafted cocktail with floral and zesty with a touch of freshness from the cucumber.",
+    "abv": 22,
+    "image": "/assets/products/cocktails/mr-jerrys-cucumber-elderflower-fizz.png"
+  },
+  {
+    "id": "cocktail-6",
+    "name": "Mr. Jerry's Midday Negroni",
+    "category": "cocktail",
+    "description": "A premium ready to serve crafted cocktail with robust, bitter with botanical depth a burst of juniper and orange.",
+    "abv": 24,
+    "image": "/assets/products/cocktails/mr-jerrys-midday-negroni.png"
+  },
+  {
+    "id": "lowalcohol-1",
+    "name": "XF Crazy Cranberry",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a fruity cranberry flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/xf-crazy-cranberry.png"
+  },
+  {
+    "id": "low-alcohol-2",
+    "name": "XF Energy Drink",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a refreshing energy boost.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/xf-energy.png"
+  },
+  {
+    "id": "low-alcohol-3",
+    "name": "XF Tangy Orange",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a tangy orange flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/xf-tangy-orange.png"
+  },
+  {
+    "id": "low-alcohol-4",
+    "name": "XF Zesty Lemon",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a zesty lemon flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/xf-zesty-lemon.png"
+  },
+  {
+    "id": "low-alcohol-5",
+    "name": "XF Zesty Blackcurrant Buzz",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a zesty blackcurrant flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/xf-blackcurrant-buzz.png"
+  },
+  {
+    "id": "low-alcohol-6",
+    "name": "Typsy Hard Seltzer - Cucumber & Lime",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a refreshing cucumber and lime flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/typsy-seltzer-cucumber-lime.png"
+  },
+  {
+    "id": "low-alcohol-7",
+    "name": "Typsy Hard Seltzer - Mandarin & Ginger",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a refreshing mandarin and ginger flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/typsy-seltzer-mandarin-ginger.png"
+  },
+  {
+    "id": "low-alcohol-8",
+    "name": "Typsy Hard Seltzer - Grapefruit & Himalayan Pink Salt",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a refreshing grapefruit and Himalayan pink salt flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/typsy-seltzer-grapefruit-himalayan-pink-salt.png"
+  },
+  {
+    "id": "low-alcohol-9",
+    "name": "Typsy Hard Seltzer - Peach & White Tea",
+    "category": "low-alcohol",
+    "description": "A premium low-alcohol beverage with a refreshing peach and white tea flavor.",
+    "abv": 8,
+    "image": "/assets/products/low-alchoholic-beverages/typsy-seltzer-peach-white-tea.png"
+  }
+]
