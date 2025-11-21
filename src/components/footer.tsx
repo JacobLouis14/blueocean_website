@@ -22,7 +22,7 @@ const Footer = () => {
         <div className="order-2 flex flex-col gap-5 md:items-center text-start">
           <h6 className="font-semibold">Explore</h6>
           <ul className="flex flex-col gap-2 font-extralight">
-            <Link href={"/home"}>Home</Link>
+            <Link href={"/"}>Home</Link>
             <Link href={"/products/whisky/highbury-classic-whisky"}>
               Products
             </Link>

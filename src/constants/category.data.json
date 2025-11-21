@@ -1,34 +1,50 @@
 [
   {
+    "name": "Rum",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/rum_thumbnail.png",
+    "link": "/products/rum/pelican-rum"
+  },
+  {
     "name": "Whiskey",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/vodka_thumbnail.png",
     "link": "/products/whisky/highbury-classic-whisky"
   },
   {
     "name": "Brandy",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/brandy_thumbnail.png",
     "link": "/products/brandy/haze-premium-xO-brandy"
   },
   {
-    "name": "Rum",
-    "link": "/products/rum/pelican-rum"
-  },
-  {
-    "name": "Vodka",
-    "link": "/products/vodka/neon-raspberry-vodka"
-  },
-  {
     "name": "Gin",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/brandy_thumbnail.png",
     "link": "/products/gin/pink-mystique-london-drygin"
   },
   {
-    "name": "Liqueur",
-    "link": "/products/liqueur/bob's-ginger-liqueur"
+    "name": "Vodka",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/vodka_thumbnail.png",
+    "link": "/products/vodka/neon-raspberry-vodka"
   },
   {
     "name": "Cocktails",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/vodka_thumbnail.png",
     "link": "/products/cocktail/mr.-jerry's-long-island-iced-tea"
   },
   {
-    "name": "Low Alchoholic Beverages",
+    "name": "Liquors",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/vodka_thumbnail.png",
+    "link": "/products/liqueur/bob's-ginger-liqueur"
+  },
+  {
+    "name": "Low Alchoholic beverages",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed animi alias labore fugiat iure sequi unde assumenda quidem maiores quisquam necessitatibus, nobis velit doloribus quis, doloremque modi quibusdam ex eius?",
+    "image": "/assets/vodka_thumbnail.png",
     "link": "/products/low-alcohol/xf-crazy-cranberry"
   }
 ]
